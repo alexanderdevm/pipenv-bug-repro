@@ -1,2 +1,5 @@
 # pipenv-bug-repro
-repo to reproduce pipenv bug
+
+To repro the issue:
+
+`pipenv install`
